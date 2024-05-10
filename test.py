@@ -1,3 +1,4 @@
+# CODE A NE PAS LANCER, CETTE PAGE ME SERT A FAIRE DES TEST
 import os
 import numpy as np
 import cv2
